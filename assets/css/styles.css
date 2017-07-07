@@ -17,7 +17,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #2d7788;
+  color: #3097D1;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,7 +34,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #42A8C0;
+  background: #3097D1;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -43,10 +43,10 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #42A8C0;
+  background: #3097D1;
   position: absolute;
   left: 0;
-  width: 300px;
+  width: 280px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -146,13 +146,13 @@ p {
 .main-wrapper {
   background: #fff;
   padding: 60px;
-  padding-left: 360px;
+  padding-left: 340px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #2d7788;
+  color: #3097D1;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -171,7 +171,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #2d7788;
+  background: #3097D1;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
